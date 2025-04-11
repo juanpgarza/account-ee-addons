@@ -1,1 +1,1 @@
-from . import l10n_ar_vat_book
+# from . import l10n_ar_vat_book
