@@ -9,7 +9,7 @@
     "license": "AGPL-3",
     "depends": 
         [
-            "l10n_ar_reports",
+            # "l10n_ar_reports",
         ],
     "data": 
         [
